@@ -36,7 +36,8 @@ The **Blog App** allows users to sign up, log in, write blogs, categorize them u
 | Sign Up Screen | Sign In Screen |
 |----------------|----------------|
 | ![Sign Up] ![WhatsApp Image 2025-07-11 at 23 11 50_0546f5db](https://github.com/user-attachments/assets/3ab816bd-21ce-409e-be63-50c1c77f71f6)
-| ![Sign In](https://github.com/yourusername/blog_app/assets/preview_signin.jpg) |
+| ![Sign In]![WhatsApp Image 2025-07-11 at 23 11 50_000124d4](https://github.com/user-attachments/assets/e78e2e05-71a2-40c4-8cd9-c9ac0a3b51ee)
+ |
 
 ---
 
