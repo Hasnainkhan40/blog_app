@@ -28,7 +28,7 @@ The **Blog App** allows users to sign up, log in, write blogs, categorize them u
 
 | Blog List Screen | Blog Details | Add Blog |
 |------------------|--------------|----------|
-| ![Blog List] ![WhatsApp Image 2025-07-11 at 23 11 49_ca45cc5d](https://github.com/user-attachments/assets/da6540da-8cd1-4f09-a168-5ba64b94cf6a)
+| ![Blog List] !(https://github.com/user-attachments/assets/da6540da-8cd1-4f09-a168-5ba64b94cf6a)
 | ![Blog Details] ![WhatsApp Image 2025-07-11 at 23 15 57_1a6daf8a](https://github.com/user-attachments/assets/9060b0b7-42d3-40ce-9bb6-dc12809ec645)
 | ![Add Blog] ![WhatsApp Image 2025-07-15 at 22 33 12_803e85a7](https://github.com/user-attachments/assets/9595997e-1c1f-436b-8f3d-47c9277ca93d)
  |
@@ -36,8 +36,6 @@ The **Blog App** allows users to sign up, log in, write blogs, categorize them u
 | Sign Up Screen | Sign In Screen |
 |----------------|----------------|
 | ![Sign Up](https://github.com/yourusername/blog_app/assets/preview_signup.jpg) | ![Sign In](https://github.com/yourusername/blog_app/assets/preview_signin.jpg) |
-
-> **Note**: Replace the placeholder image links with your actual GitHub-hosted images or assets.
 
 ---
 
