@@ -28,7 +28,8 @@ The **Blog App** allows users to sign up, log in, write blogs, categorize them u
 
 | Blog List Screen | Blog Details | Add Blog |
 |------------------|--------------|----------|
-| ![Blog List](https://github.com/yourusername/blog_app/assets/preview_blog_list.jpg) | ![Blog Details](https://github.com/yourusername/blog_app/assets/preview_blog_detail.jpg) | ![Add Blog](https://github.com/yourusername/blog_app/assets/preview_add_blog.jpg) |
+| ![Blog List] ![WhatsApp Image 2025-07-11 at 23 11 49_ca45cc5d](https://github.com/user-attachments/assets/da6540da-8cd1-4f09-a168-5ba64b94cf6a)
+| ![Blog Details](https://github.com/yourusername/blog_app/assets/preview_blog_detail.jpg) | ![Add Blog](https://github.com/yourusername/blog_app/assets/preview_add_blog.jpg) |
 
 | Sign Up Screen | Sign In Screen |
 |----------------|----------------|
