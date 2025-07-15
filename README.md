@@ -25,12 +25,9 @@ The **Blog App** allows users to sign up, log in, write blogs, categorize them u
 ---
 
 ## 📸 Screenshots
-![WhatsApp Image 2025-07-11 at 23 11 49_ca45cc5d](https://github.com/user-attachments/assets/c4ef663d-b7b2-48a0-af04-9628bfcd5ea9)
-![WhatsApp Image 2025-07-11 at 23 11 50_000124d4](https://github.com/user-attachments/assets/2affacea-fdbf-463d-ad20-afcbf189f9a6)
-![WhatsApp Image 2025-07-11 at 23 11 50_0546f5db](https://github.com/user-attachments/assets/f8aa50b7-d2ed-4c17-a8ae-14bb01eecd30)
-![WhatsApp Image 2025-07-11 at 23 15 57_1a6daf8a](https://github.com/user-attachments/assets/13e0715c-dd95-4045-adcc-d1004abe2851)
-![WhatsApp Image 2025-07-15 at 22 33 12_803e85a7](https://github.com/user-attachments/assets/3e2ee58a-01f4-46e9-9682-8ef033e2d7a9)
 
+
+![WhatsApp Image 2025-07-15 at 23 01 46_e0bb36e0](https://github.com/user-attachments/assets/1e5e94b5-dac2-470a-8532-de1a20eba626)
 
 ---
 
