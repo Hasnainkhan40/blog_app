@@ -47,7 +47,7 @@ The **Blog App** allows users to sign up, log in, write blogs, categorize them u
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/blog_app.git
+git clone https://github.com/Hasnainkhan40/blog_app
 cd blog_app
 
 # Install dependencies
