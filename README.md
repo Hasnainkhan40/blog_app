@@ -25,19 +25,12 @@ The **Blog App** allows users to sign up, log in, write blogs, categorize them u
 ---
 
 ## 📸 Screenshots
+![WhatsApp Image 2025-07-11 at 23 11 49_ca45cc5d](https://github.com/user-attachments/assets/c4ef663d-b7b2-48a0-af04-9628bfcd5ea9)
+![WhatsApp Image 2025-07-11 at 23 11 50_000124d4](https://github.com/user-attachments/assets/2affacea-fdbf-463d-ad20-afcbf189f9a6)
+![WhatsApp Image 2025-07-11 at 23 11 50_0546f5db](https://github.com/user-attachments/assets/f8aa50b7-d2ed-4c17-a8ae-14bb01eecd30)
+![WhatsApp Image 2025-07-11 at 23 15 57_1a6daf8a](https://github.com/user-attachments/assets/13e0715c-dd95-4045-adcc-d1004abe2851)
+![WhatsApp Image 2025-07-15 at 22 33 12_803e85a7](https://github.com/user-attachments/assets/3e2ee58a-01f4-46e9-9682-8ef033e2d7a9)
 
-| Blog List Screen | Blog Details | Add Blog |
-|------------------|--------------|----------|
-| ![Blog List] !(https://github.com/user-attachments/assets/da6540da-8cd1-4f09-a168-5ba64b94cf6a)
-| ![Blog Details] ![WhatsApp Image 2025-07-11 at 23 15 57_1a6daf8a](https://github.com/user-attachments/assets/9060b0b7-42d3-40ce-9bb6-dc12809ec645)
-| ![Add Blog] ![WhatsApp Image 2025-07-15 at 22 33 12_803e85a7](https://github.com/user-attachments/assets/9595997e-1c1f-436b-8f3d-47c9277ca93d)
- |
-
-| Sign Up Screen | Sign In Screen |
-|----------------|----------------|
-| ![Sign Up] ![WhatsApp Image 2025-07-11 at 23 11 50_0546f5db](https://github.com/user-attachments/assets/3ab816bd-21ce-409e-be63-50c1c77f71f6)
-| ![Sign In]![WhatsApp Image 2025-07-11 at 23 11 50_000124d4](https://github.com/user-attachments/assets/e78e2e05-71a2-40c4-8cd9-c9ac0a3b51ee)
- |
 
 ---
 
